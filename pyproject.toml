@@ -1,9 +1,9 @@
 [tool.poetry]
 name = "o1-replication-journey-tree-viewer"
+author = "Andreas Kirsch"
 version = "0.1.0"
-description = "Add your description here"
+description = "Visualize Sample Trees from the O1 Replication Journey"
 readme = "README.md"
-requires-python = ">=3.11"
 
 [tool.poetry.dependencies]
 python = ">=3.11"
