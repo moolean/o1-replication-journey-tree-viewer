@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "o1-replication-journey-tree-viewer"
-author = "Andreas Kirsch"
+authors = ["Andreas Kirsch <blackhc@gmail.com>"]
 version = "0.1.0"
 description = "Visualize Sample Trees from the O1 Replication Journey"
 readme = "README.md"
